@@ -6,7 +6,3 @@ Random Forest
 Decision Tree
 KNN algorithm
 logistic regression
-
-To-do 
-adding 2 more algorithms to traain this model
-performs more data analysis on this project
